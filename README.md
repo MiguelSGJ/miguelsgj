@@ -1,9 +1,10 @@
 
 <p align="center">
   <a href="https://github.com/MiguelSilvano">
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=28&weight=bold&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+there👋!+I'm+Miguel+Silvano;Computer+Science+Student+at+UERN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=22&pause=1000&color=2E2E2E&center=true&vCenter=true&width=500&lines=Hi+there👋!+I'm+Miguel+Silvano;Computer+Science+Student+at+UERN" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 
