@@ -39,18 +39,6 @@ I enjoy designing scalable APIs, building modern interfaces and continuously imp
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelSGJ&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSGJ&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
