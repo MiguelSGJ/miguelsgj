@@ -1,57 +1,90 @@
-# 👨‍💻 Miguel Silvano
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0A66C2&height=220&section=header&text=Miguel%20Silvano&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descSize=16" />
 
-Full Stack Developer focused on **Java and Spring Boot**, passionate about building scalable backend systems and modern web applications.
-
-🎓 Computer Science student at **Universidade Estadual do Rio Grande do Norte (UERN)**.
-
-I enjoy designing robust APIs, clean architectures, and full-stack solutions using modern technologies.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+Specialist;React+%7C+Next.js+Developer;Computer+Science+Student+at+UERN" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+# 👨‍💻 About Me
+
+🚀 Full Stack Developer focused on **Spring Boot backend development** and modern web applications.
+
+🎓 Currently pursuing a **Computer Science degree at Universidade Estadual do Rio Grande do Norte (UERN)**.
+
+I enjoy designing scalable APIs, building modern interfaces and continuously improving my engineering skills.
+
+---
+
+# 🧰 Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1220?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Web
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Database & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
-## 🧠 About Me
+# 📊 GitHub Stats
 
-- 🔭 Focused on **backend architecture and scalable systems**
-- ⚙️ Experienced with **Spring Boot microservices**
-- 🌐 Building modern **React and Next.js applications**
-- 📚 Always learning and improving as a developer
+<p align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelSGJ&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 📊 GitHub Stats
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSGJ&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-## 📫 Connect with me
+# 🔥 Contribution Streak
 
-- 💼 LinkedIn: www.linkedin.com/in/miguelsgj
-- 📧 Email: miguelsilvanogjr@gmail.com
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MiguelSGJ&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ *Always striving to write clean code, build meaningful software, and grow as an engineer.*
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelSGJ&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 **Email:**  
+miguelsilvanogjr@gmail.com  
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/miguelsgj  
+
+📷 **Instagram:**  
+https://instagram.com/MiguelSGJ  
+
+🏢 **Organization:**  
+https://github.com/solarz-dev
+
+---
+
+⭐ Always striving to build clean, scalable and meaningful software.
